@@ -5,7 +5,7 @@ GoHüme: A Trusty Commute Companion
 GoHüme is a mobile commute app designed to improve public transportation in the Philippines. This app addresses challenges faced by commuters and drivers, such as long wait times, unreliable schedules, and safety concerns. It specifically targets users who rely on Public Utility Jeepneys (PUJs) for their commute and livelihood.
 
 # The Prototype
-The GoHüme prototype was developed in Figma. Access it here!
+The GoHüme prototype was developed in Figma. Access it [here!](https://www.figma.com/proto/753fqa3itLWyjwYaWKkzvM/GoHüme?node-id=248-2657&t=y1b3VNzLBXHBlvpM-0&scaling=scale-down&content-scaling=fixed&page-id=37%3A432&starting-point-node-id=248%3A2657&show-proto-sidebar=1)
 
 # Additional Info
 [Certificate:](https://github.com/KenjiM-03/CS152-Mende-Compilation/tree/main/Certificate) Contains the certificate for completing the first course in Google's UX Design Coursera Specialization. <br><br/>
